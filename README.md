@@ -10,10 +10,10 @@ It supports two modes:
 
 ## Features
 - Scans multiple bands:
-  - 30–88 MHz (VHF Military)
-  - 225–400 MHz (UHF Military)
-  - 800–900 MHz
-  - 1.2–1.3 GHz
+  - 30–88 MHz (VHF Low / SINCGARS Band)
+  - 225–400 MHz (UHF Military Aviation & Satcom)
+  - 800–900 MHz (High‑UHF / Tactical & Trunked)
+  - 1.2–1.3 GHz (L‑Band Tactical / Surveillance / Experimental)
 - Logs all detections to `scan_log.csv`
 - Saves `.iq` and `.png` captures for strong signals
 - **Audible alert** when a strong signal is detected
